@@ -1,0 +1,12 @@
+{
+  "name": "happy-new-year-2026",
+  "version": "1.0.0",
+  "description": "Happy New Year 2026 wishes board",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
